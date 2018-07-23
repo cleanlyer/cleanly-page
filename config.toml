@@ -1,4 +1,4 @@
-baseurl = "https://cleanlyer.org/"
+baseurl = "http://cleanlyer.github.io/"
 languageCode = "en-us"
 title = "Cleanly"
 theme = "hugo-creative-theme"
@@ -7,7 +7,7 @@ googleAnalytics = ""
 [params]
     name = "Cleanly"
     description = "The application that will help you make the world cleaner"
-    favicon = "favicon.ico"
+    # favicon = "favicon.ico"
 
 [params.navigation]
     brand = "Cleanly"
